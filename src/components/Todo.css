@@ -1,0 +1,10 @@
+.Todo {
+    background-color: rgb(34, 167, 201);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    font-size: 25px;
+}
